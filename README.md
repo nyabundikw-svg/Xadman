@@ -1,5 +1,7 @@
 # QUARTO website template 
-
+add extra pages
+link between pages using [ title ] ( target.md )
+add an image using ![ title ] ( image.png )
 describe your website here
 
 view this website online at <https://lsc-hubs.github.io/quarto-template>
